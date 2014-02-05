@@ -1,62 +1,14 @@
-body {
-	font-family: 'Open Sans', "Helvetica Neue",Helvetica,Arial,sans-serif;
-	padding-top: 70px;
-}
+/*
 
-h1, h2, h3, h4, h5, h6 {
-	text-rendering: optimizelegibility;
-}
+CSS Social Media Buttons by MediaLoot
+URL: http://medialoot.com/item/css-social-media-buttons
 
-h1, h2{
-	color: #CD3D37;
-}
+Designer: Tony Thomas
 
-footer a{
-	color: #CD3D37;
-}
+*/
 
+/* General & Layout */
 
-.container {
-  color: #333;
-}
-
-.navbar.navbar-default.navbar-fixed-top {
-	border-top: 5px solid #CD3D37;
-}
-
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-	color: #FFF;
-	background-color: #CD3D37;
-}
-
-.btn-default {
-	color: #FFF;
-	background-color: #CD3D37;
-	border-color: #CD0000;
-}
-
-.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
-	color: #FFF;
-	background-color: #DE3535;
-	border-color: #F00505;
-}
-.jumbotron {
-  background: url('../img/banner.jpg') no-repeat;
-  color: white;
-  background-size: cover;
-}
-#content {
-	margin: 50px 0px;
-}
-
-.wall-of-text li{
-	margin-bottom: 15px;
-}
-
-
-#verifyImg {
-	margin-bottom: 10px;
-}
 
 #social-media a {
 	float: left;
